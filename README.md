@@ -1,4 +1,4 @@
-# CV Lab – Local Binary Pattern (LBP) Texture Analysis
+# Local Binary Pattern (LBP) Texture Analysis
 
 ## Aim
 To extract and visualize texture features from an image using the **Local Binary Pattern (LBP)** technique and analyze the texture distribution using a histogram.
@@ -30,7 +30,7 @@ The notebook performs these steps:
 ```text
 CV-Lab-LBP/
 ├── CVLAB09.ipynb
-├── image16.jpg       # Input image (add this file)
+├── image16.jpg       
 └── README.md
 ```
 
@@ -80,13 +80,6 @@ The notebook currently uses this Google Drive path:
 ```python
 img = cv2.imread('/content/drive/MyDrive/COMPUTER VISION/image16.jpg')
 ```
-
-If the image is in the same folder as the notebook, use:
-
-```python
-img = cv2.imread('image16.jpg')
-```
-
 ### Convert to Grayscale
 
 ```python
@@ -141,4 +134,8 @@ If a library import fails, install the missing package using the commands in the
 - The README describes the code currently present in the uploaded notebook.
 
 ## Author
-Add your name, department, college, and academic details here if required.
+Velaga Manikanta Sai.
+
+241FA23016.
+
+III-Data Science.
